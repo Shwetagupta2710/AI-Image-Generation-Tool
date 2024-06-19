@@ -12,22 +12,6 @@ Welcome to the AI-Powered Image Generation Website! This web application leverag
 
 To run this project, you will need an OpenAI API key.
 
-### Prerequisites
-
-- An OpenAI API key. You can obtain one by signing up on the [OpenAI website](https://beta.openai.com/signup/).
-
-### Installation
-
-1. Clone this repository:
-    ```sh
-    git clone https://github.com/your-username/ai-image-generation-website.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd ai-image-generation-website
-    ```
-3. Open `index.html` in your preferred browser.
-
 ### Usage
 
 1. Enter your OpenAI API key in the provided field on the website.
